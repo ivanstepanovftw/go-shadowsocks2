@@ -1,6 +1,6 @@
 # go-shadowsocks2
 
-A fresh implementation of Shadowsocks in Go.
+An implementation of Shadowsocks in Go.
 
 GoDoc at https://godoc.org/github.com/shadowsocks/go-shadowsocks2/
 
